@@ -77,6 +77,3 @@ for i in range(2):
 figure.suptitle('Option Payoff at Maturity')
 ```
 
-Feel free to explore and modify the code to suit your specific requirements. If you have any questions or need further assistance, please don't hesitate to reach out.
-
-Happy coding!
